@@ -14,4 +14,4 @@ Tas ir pirmais projekts uz Unity!!!
 - [ ] RigidBody un Collider komponentu lietojums
 - [ ] Sagatavošana Windows platformai
 
-![Mr.Bean]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F858991328918090148%2F&psig=AOvVaw1wjuc2TRwUlEpZqIOrN2M0&ust=1715235680597000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJDHw_20_YUDFQAAAAAdAAAAABAE](https://i.pinimg.com/originals/bb/20/4c/bb204ca21347be6d8a770f1e62ca93ee.png))
+![Mr.Bean](https://i.pinimg.com/originals/bb/20/4c/bb204ca21347be6d8a770f1e62ca93ee.png)
