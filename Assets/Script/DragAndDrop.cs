@@ -38,6 +38,6 @@ public class DragAndDrop : MonoBehaviour, IPointerDownHandler,
 
     public void OnEndDrag(PointerEventData data)
     {
-        Debug.Log("Ogjekts atlaists, vilkšana pārtraukta!");
+        Debug.Log("Objekts atlaists, vilkšana pārtraukta!");
     }
 }
